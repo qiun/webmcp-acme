@@ -1,0 +1,14 @@
+{
+  "name": "ACME (demo)",
+  "description": "WebMCP playground — a landing page that answers agents' questions about the company.",
+  "url": "https://example.com/",
+  "tools": [
+    { "name": "get_company_info", "description": "Company description, mission, location." },
+    { "name": "list_products", "description": "List of products/services with prices." },
+    { "name": "get_contact_info", "description": "Phone, email, address, hours." },
+    {
+      "name": "submit_contact_form",
+      "description": "Sends a message via the form (declarative, confirmed by a human)."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/contactform.tsx","./src/data/company.ts","./src/lib/webmcp.ts","./src/sections/about.tsx","./src/sections/contact.tsx","./src/sections/hero.tsx","./src/sections/products.tsx","./src/tools/acmetools.ts"],"version":"5.9.3"}
